@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Chafiki</h1>
 <h3 align="center">Software Developer</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF" width="300"/>
+  <iframe src="https://giphy.com/embed/EuCHgBO2sraOk" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/death-note-l-lawliet-EuCHgBO2sraOk">via GIPHY</a></p>
 </p
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamchafiki" alt="adamchafiki" /></a> </p>
 
