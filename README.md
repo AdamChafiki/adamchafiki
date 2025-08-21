@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adam Chafiki</h1>
 <h3 align="center">Software Developer</h3>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtxaXgzbHBpeGEwczQ2eGhpcDY5ajhnaXE3enAwZmprNmZhbWRuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EuCHgBO2sraOk/giphy.gif" alt="GIF" width="300"/>
-</p>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF" width="300"/>
+</p
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamchafiki" alt="adamchafiki" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
